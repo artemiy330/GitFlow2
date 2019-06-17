@@ -1,3 +1,4 @@
 GitFlow2
 init
 feature1
+feature2
