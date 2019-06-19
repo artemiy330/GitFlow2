@@ -1,3 +1,4 @@
 [submodule "SubRepo1"]
 	path = SubRepo1
 	url = https://github.com/artemiy330/SubRepo1
+	branch = stable
